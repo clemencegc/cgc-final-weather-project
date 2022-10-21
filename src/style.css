@@ -1,0 +1,40 @@
+.container-fluid {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  background-color: rgba(222, 216, 216, 0.7);
+  height: 800px;
+}
+
+.searchbar {
+  color: darkgrey;
+}
+
+h1 {
+  border-radius: 50px;
+  background-color: white;
+  width: fit-content;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  box-shadow: transparent white;
+}
+
+h3 {
+  font-size: 40px;
+  color: rgb(92, 89, 89);
+}
+
+h5 {
+  font-size: 20px;
+}
+
+.card {
+  border-radius: 200px;
+  border: 1px solid gray;
+  background-color: beige;
+}
+.card-text {
+  font-size: 42px;
+  color: darkgrey;
+}
